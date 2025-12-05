@@ -1,0 +1,93 @@
+.footer {
+  color: #333;
+  padding: 1vw 4vw;
+ margin-top: 50px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap; 
+  gap: 20px; 
+}
+
+
+.footer-section {
+  flex: 1; 
+  min-width: 200px; 
+}
+
+.footer-section h3,
+.footer-section h1 {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.logo {
+  font-size: 1.8em;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ 
+
+.footer-text {
+  font-size: 0.9em;
+  line-height: 1.5;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+  font-size: 0.9em;
+}
+
+.footer-links li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* Estilo para la parte inferior */
+.footer-bottom {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 0.8em;
+}
+
+.footer-bottom hr {
+  border: 0.5px solid #ebb000;
+  margin: 10px 0;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column; 
+    text-align: center; 
+  }
+
+  .footer-section {
+    margin-bottom: 20px; 
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-section h3,
+  .footer-section h1 {
+    font-size: 1.1em;
+  }
+
+  .footer-text,
+  .footer-links li {
+    font-size: 0.85em;
+  }
+
+  .logo {
+    font-size: 1.5em;
+  }
+}

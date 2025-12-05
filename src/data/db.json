@@ -1,0 +1,241 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "nombre": "Cinta adhesiva transparente de uso general",
+            "descripcion": "Cinta resistente ideal para sellar paquetes, documentos y cajas ligeras.",
+            "categoria": "Hombres",
+            "image": "/images/p1.png",
+            "precio": 150,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 2,
+            "nombre": "Bolsa plástica mediana reutilizable",
+            "descripcion": "Bolsa práctica para almacenar productos diversos, resistente y flexible.",
+            "categoria": "Niños",
+            "image": "/images/p2.png",
+            "precio": 50
+        },
+        {
+            "id": 3,
+            "nombre": "Caja de cartón reforzada",
+            "descripcion": "Caja resistente para envíos o almacenamiento de productos frágiles.",
+            "categoria": "Mujeres",
+            "image": "/images/p3.png",
+            "precio": 75,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 4,
+            "nombre": "Cinta adhesiva doble cara",
+            "descripcion": "Cinta fuerte con adhesivo en ambos lados, ideal para fijaciones rápidas.",
+            "categoria": "Hombres",
+            "image": "/images/p4.png",
+            "precio": 10
+        },
+        {
+            "id": 5,
+            "nombre": "Caja pequeña para empaque",
+            "descripcion": "Caja compacta ideal para productos chicos y artículos delicados.",
+            "categoria": "Mujeres",
+            "image": "/images/p5.png",
+            "precio": 12
+        },
+        {
+            "id": 6,
+            "nombre": "Cinta de empaque color canela",
+            "descripcion": "Cinta de alta resistencia perfecta para cerrar cajas y embalajes.",
+            "categoria": "Hombres",
+            "image": "/images/p6.png",
+            "precio": 25
+        },
+        {
+            "id": 7,
+            "nombre": "Cinta reforzada industrial",
+            "descripcion": "Cinta con fibras internas que brindan máxima fuerza para paquetes pesados.",
+            "categoria": "Hombres",
+            "image": "/images/p7.png",
+            "precio": 150,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 8,
+            "nombre": "Cinta adhesiva ancha para empaque",
+            "descripcion": "Cinta extra ancha diseñada para sellar cajas grandes y embalajes voluminosos.",
+            "categoria": "Hombres",
+            "image": "/images/p8.png",
+            "precio": 35,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 9,
+            "nombre": "Caja plegable económica",
+            "descripcion": "Caja ligera y fácil de armar, ideal para envíos básicos y almacenamiento.",
+            "categoria": "Mujeres",
+            "image": "/images/p9.png",
+            "precio": 25,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 10,
+            "nombre": "Caja decorativa tipo regalo",
+            "descripcion": "Caja con acabado especial ideal para obsequios o presentación de productos.",
+            "categoria": "Mujeres",
+            "image": "/images/p10.png",
+            "precio": 75,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 11,
+            "nombre": "Caja multiusos mediana",
+            "descripcion": "Caja versátil para envíos, organización o almacenamiento doméstico.",
+            "categoria": "Mujeres",
+            "image": "/images/p11.png",
+            "precio": 15
+        },
+        {
+            "id": 12,
+            "nombre": "Cinta aislante profesional",
+            "descripcion": "Cinta para trabajos eléctricos y reparaciones en general.",
+            "categoria": "Hombres",
+            "image": "/images/p12.png",
+            "precio": 35,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 13,
+            "nombre": "Bolsa decorativa para regalo",
+            "descripcion": "Bolsa con diseño colorido ideal para obsequios y presentaciones.",
+            "categoria": "Niños",
+            "image": "/images/p13.png",
+            "precio": 12
+        },
+        {
+            "id": 14,
+            "nombre": "Cinta adhesiva azul para sellado",
+            "descripcion": "Cinta de color azul ideal para clasificación y señalización de paquetes.",
+            "categoria": "Hombres",
+            "image": "/images/p14.png",
+            "precio": 38,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 16,
+            "nombre": "Caja grande para mudanza",
+            "descripcion": "Caja amplia y resistente ideal para transportar objetos grandes.",
+            "categoria": "Mujeres",
+            "image": "/images/p15.png",
+            "precio": 25
+        },
+        {
+            "id": 17,
+            "nombre": "Bolsa plástica grande resistente",
+            "descripcion": "Bolsa amplia ideal para almacenar ropa, artículos grandes o mercancía.",
+            "categoria": "Niños",
+            "image": "/images/p16.png",
+            "precio": 30,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 18,
+            "nombre": "Bolsa transparente con cierre hermético",
+            "descripcion": "Bolsa tipo zipper para conservar productos pequeños o alimentos.",
+            "categoria": "Niños",
+            "image": "/images/p17.png",
+            "precio": 30,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 19,
+            "nombre": "Cinta adhesiva color piel",
+            "descripcion": "Cinta discreta que se mezcla con tonos neutros, ideal para empaques finos.",
+            "categoria": "Hombres",
+            "image": "/images/p18.png",
+            "precio": 25
+        },
+        {
+            "id": 20,
+            "nombre": "Cinta adhesiva negra resistente",
+            "descripcion": "Cinta fuerte para trabajos de embalaje y aplicaciones industriales.",
+            "categoria": "Hombres",
+            "image": "/images/p19.png",
+            "precio": 40,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 21,
+            "nombre": "Cinta delgada para oficina",
+            "descripcion": "Cinta útil para manualidades, papel, oficina y reparaciones ligeras.",
+            "categoria": "Hombres",
+            "image": "/images/p20.png",
+            "precio": 12
+        },
+        {
+            "id": 22,
+            "nombre": "Caja decorativa color negro",
+            "descripcion": "Caja elegante para productos premium o presentación formal.",
+            "categoria": "Mujeres",
+            "image": "/images/p21.png",
+            "precio": 12
+        },
+        {
+            "id": 23,
+            "nombre": "Cinta adhesiva gris",
+            "descripcion": "Cinta adhesiva ideal para empaques y tareas de organización.",
+            "categoria": "Mujeres",
+            "image": "/images/p22.png",
+            "precio": 10
+        },
+        {
+            "id": 24,
+            "nombre": "Cinta blanca para empaque",
+            "descripcion": "Cinta resistente color blanco ideal para embalajes limpios y presentables.",
+            "categoria": "Hombres",
+            "image": "/images/p23.png",
+            "precio": 12
+        },
+        {
+            "id": 25,
+            "nombre": "Bolsa de regalo color beige",
+            "descripcion": "Bolsa elegante perfecta para obsequios o envoltura fina.",
+            "categoria": "Mujeres",
+            "image": "/images/p24.png",
+            "precio": 40,
+            "tipo": "Prendas de abrigo"
+        },
+        {
+            "id": 26,
+            "nombre": "Caja decorada pequeña",
+            "descripcion": "Caja compacta con diseño atractivo ideal para accesorios o artesanías.",
+            "categoria": "Mujeres",
+            "image": "/images/p25.png",
+            "precio": 25,
+            "tipo": "Calzado"
+        },
+        {
+            "id": 27,
+            "nombre": "Cinta negra delgada para manualidades",
+            "descripcion": "Cinta fin a ideal para proyectos escolares, decoración y etiquetado.",
+            "categoria": "Niños",
+            "image": "/images/p26.png",
+            "precio": 25
+        },
+        {
+            "id": 28,
+            "nombre": "Cinta azul ligera de oficina",
+            "descripcion": "Cinta práctica para empaques pequeños, papelería y uso general.",
+            "categoria": "Hombres",
+            "image": "/images/p27.png",
+            "precio": 50
+        },
+        {
+            "id": 29,
+            "nombre": "Bolsa pequeña transparente",
+            "descripcion": "Bolsa compacta ideal para objetos pequeños, accesorios o tornillería.",
+            "categoria": "Niños",
+            "image": "/images/p28.png",
+            "precio": 8
+        }
+    ]
+}
