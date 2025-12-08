@@ -1,0 +1,79 @@
+/* --- CONTENEDOR PRINCIPAL --- */
+.login-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 10%;
+  gap: 60px;
+}
+
+/* --- IMAGEN DEL LADO IZQUIERDO --- */
+.login-left img {
+  width: 480px;
+  border-radius: 12px;
+}
+
+/* --- FORMULARIO DEL LADO DERECHO --- */
+.login-right {
+  max-width: 380px;
+  width: 100%;
+}
+
+.login-right h2 {
+  font-size: 28px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.login-right p {
+  font-size: 14px;
+  color: #666;
+}
+
+/* --- INPUTS --- */
+.login-input {
+  width: 100%;
+  padding: 12px;
+  margin-top: 18px;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  outline: none;
+  font-size: 16px;
+}
+
+.login-input:focus {
+  border-bottom: 2px solid #333;
+}
+
+/* --- BOTÓN --- */
+.login-button {
+  margin-top: 25px;
+  width: 100%;
+  padding: 12px;
+  background: #f97316;
+  color: #fff;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.login-button:hover {
+  background: #ea580c;
+}
+
+/* --- ERROR --- */
+.login-error {
+  color: red;
+  font-size: 14px;
+  margin: 8px 0;
+}
+
+/* --- TEXTO DEMO --- */
+.login-demo {
+  margin-top: 15px;
+  font-size: 12px;
+  color: #444;
+}
